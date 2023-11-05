@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="@color/gray"
     tools:context=".MainActivity">
-
     <TextView
         android:id="@+id/timerview"
         android:layout_width="210dp"
